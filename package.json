@@ -1,8 +1,8 @@
 {
-  "name": "fe-h5",
+  "name": "app-component-lib",
   "version": "1.0.4",
   "description": "前端H5包",
-  "main": "lib/fe-H5.js",
+  "main": "lib/app-component-lib.js",
   "module": "es/index.js",
   "style": "lib/index.css",
   "typings": "lib/index.d.ts",
