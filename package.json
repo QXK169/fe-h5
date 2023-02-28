@@ -1,6 +1,6 @@
 {
   "name": "fe-h5",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "前端H5包",
   "main": "lib/fe-H5.js",
   "module": "es/index.js",
